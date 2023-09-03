@@ -1,2 +1,2 @@
-# Bao Quoc Nguyen's elibrary
+# Bao Quoc Nguyen's eRegistra
 ## Assignment 7
